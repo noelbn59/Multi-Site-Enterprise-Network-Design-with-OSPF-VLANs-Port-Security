@@ -80,11 +80,7 @@ interface FastEthernet0/1
 ## What I Learned
 This project helped me understand how multi-area OSPF improves scalability by summarizing routes at area boundaries instead of flooding the entire network with routing updates. I also learned how DHCP relay (`ip helper-address`) works when the DHCP server isn't on the same subnet as the requesting client, and how port security protects access-layer switches from unauthorized or rogue devices by limiting and locking down MAC addresses per port.
 
-## References
-- Topology and configuration structure inspired by [CCNA_Complex_Network_Design](https://github.com/HoosseinRahimi/CCNA_Complex_Network_Design)
-- Cisco official documentation on OSPF, DHCP, and Port Security (cisco.com)
 
----
 **Author:** Noel Binu
 **Certification:** CCNA (Cisco Certified Network Associate)
 **Tools:** Cisco Packet Tracer / GNS3
