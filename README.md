@@ -1,7 +1,3 @@
-# Multi-Site-Enterprise-Network-Design-with-OSPF-VLANs-Port-Security
-Multi-area OSPF network design with VLAN segmentation, inter-VLAN routing, DHCP per department, trunking, STP, and port security — built and verified in Cisco Packet Tracer/GNS3.
-
-
 # Multi-Site Enterprise Network Design with OSPF, VLANs & Port Security
 
 ## Overview
@@ -13,7 +9,7 @@ This project simulates a multi-site enterprise network for a fictional company w
 - Wireshark (optional, for traffic verification)
 
 ## Network Topology
-![Network Topology](topology-diagram.png)
+![Network Topology]("C:\Users\noelb\Downloads\network_topology.png")
 
 - **3 sites**: Head Office (Area 0) and two branch offices (Area 1 and Area 2), connected via serial WAN links
 - **1 Layer 3 switch** at Head Office handling inter-VLAN routing
